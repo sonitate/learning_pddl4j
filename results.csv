@@ -1,0 +1,9 @@
+Benchmark,Planner,Runtime,Makespan
+blocks,hsp,0.07,6
+blocks,ff,0.07,10
+depot,hsp,0.1,10
+depot,ff,0.1,12
+gripper,hsp,0.15,9
+gripper,ff,0.09,9
+logistic,hsp,0.15,20
+logistic,ff,0.1,20
